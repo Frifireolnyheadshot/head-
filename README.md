@@ -1,1 +1,1 @@
-adrhead# Sensitivity no recoil aimlock 
+adrhead# Sensitivity no recoil aim
